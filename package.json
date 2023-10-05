@@ -1,0 +1,24 @@
+{
+  "name": "hati-express-worldtime",
+  "version": "1.0.0",
+  "description": "Aujourd'hui nous avons découvert le module Express qui nous permet de gérer plus facilement un serveur web en NodeJS.\r Mais également d'afficher des vues simples grâce à l'inclusion de fichiers HTML.\r Ce soir vous allez devoir afficher une liste de capitales et créer les pages permettant de connaître la date et l'heure dans chacune d'elle.\r À cette fin vous avez :",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gension/Hati-Express-worldtime.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gension/Hati-Express-worldtime/issues"
+  },
+  "homepage": "https://github.com/Gension/Hati-Express-worldtime#readme",
+  "dependencies": {
+    "dayjs": "^1.11.10",
+    "express": "^4.18.2"
+  }
+}
